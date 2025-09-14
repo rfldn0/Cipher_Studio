@@ -60,14 +60,7 @@ Our studio focuses on open-world exploration games designed with psychological r
 
 | Project | Development Phase | Completion | Target Release |
 |---------|------------------|------------|----------------|
-| Mindful Quest | Active Development | 80% | Q4 2025 |
-| Cipher Worlds | Active Development | 60% | TBD |
-| Healing Haven | Pre-Production | 30% | Q2 2025 |
-| Inner Journey | Active Development | 50% | TBD |
-| Empathy Engine | Active Development | 40% | Q1 2026 |
-| Stress Shield | Concept Phase | 10% | TBD |
-| Digital Therapy | Research Phase | 20% | TBD |
-| Emotional Atlas | Pre-Production | 30% | Q3 2025 |
+| Haul | Active Development | 10% | Q4 2027 |
 
 ## Research Partnerships
 
