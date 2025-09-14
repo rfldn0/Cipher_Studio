@@ -1,21 +1,30 @@
-MIT License
+# LICENSE.md
 
-Copyright (c) 2025 Victor Tabuni
+## MIT License
+
+Copyright (c) 2025 Victor Tabuni  
+Copyright (c) 2025 Cipher Studio - Victor R Tabuni (Visual Assets)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), including
+images, icons, and visual assets (the "Visual Assets"), to deal in both the
+Software and Visual Assets without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software and Visual Assets, and to permit persons to whom
+the Software or Visual Assets are furnished to do so, subject to the following
+conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of both the Software and Visual Assets.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+THE SOFTWARE AND VISUAL ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE, VISUAL ASSETS, OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE OR VISUAL ASSETS.
+
+### Additional Notes
+
+This license applies to both software code and visual assets (images, icons, logos, and visual design elements) within this repository. All game code, therapeutic frameworks, and proprietary development materials remain under separate proprietary licensing.
