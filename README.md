@@ -1,17 +1,31 @@
 # Cipher Studio
 
+## Navigation
+- [About Us](#about-us)
+- [Development Approach](#development-approach)
+- [Current Project: Haul](#current-project-haul)
+- [Technical Framework](#technical-framework)
+- [Development Status](#development-status)
+- [Documentation](#documentation)
+- [Contact Information](#contact-information)
+- [Project Information](#project-information)
+
+---
+
 ![Cipher Studio Logo](assets/imgs/ChatGPT%20Image%20Sep%2014%2C%202025%2C%2002_57_54%20PM.png)
 
 **Independent game development studio creating enjoyable, wellness-focused gaming experiences.**
 
 ---
 
+<a id="about-us"></a>
 ## About Us
 
 Cipher Studio is an independent game development studio founded by Victor Tabuni, dedicated to creating engaging gaming experiences that promote relaxation, enjoyment, and personal wellness. We focus on developing games that provide meaningful escapes and positive digital experiences.
 
 Our studio specializes in open-world exploration games that combine engaging gameplay with elements designed to support mental wellness through enjoyable play.
 
+<a id="development-approach"></a>
 ## Development Approach
 
 ### Design Principles
@@ -22,6 +36,7 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - **Meaningful Progression**: Reward systems that feel satisfying and fulfilling
 - **Accessible Design**: Games that welcome players of all experience levels
 
+<a id="current-project-haul"></a>
 ## Current Project: Haul
 
 ### Overview
@@ -38,6 +53,7 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - Relaxing gameplay mechanics
 - Positive reinforcement systems
 
+<a id="technical-framework"></a>
 ## Technical Framework
 
 ### Development Stack
@@ -52,6 +68,7 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - Iterative playtesting
 - Performance optimization
 
+<a id="development-status"></a>
 ## Development Status
 
 ### Current Focus
@@ -65,6 +82,7 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - **Content Creation**: Planning Stage
 - **Polish & Release**: Future
 
+<a id="documentation"></a>
 ## Documentation
 
 ### Available Resources
@@ -73,6 +91,7 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - Art style references
 - Development progress updates
 
+<a id="contact-information"></a>
 ## Contact Information
 
 ### Studio Leadership
@@ -88,6 +107,7 @@ We welcome feedback from players and enthusiasts who share our interest in games
 
 ---
 
+<a id="project-information"></a>
 ## Project Information
 
 ### Repository Access
