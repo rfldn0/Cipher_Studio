@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cipher Studio - Indie Game Development</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <a href="#" class="logo">
+                <svg class="logo-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="40" stroke="currentColor" stroke-width="8" fill="none"/>
+                    <path d="M50 10L85 35" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+                    <polygon points="85,40 75,30 95,30" fill="currentColor"/>
+                    <circle class="keyhole-bg" cx="50" cy="50" r="25" fill="currentColor"/>
+                    <circle class="keyhole-circle" cx="50" cy="45" r="8" fill="white"/>
+                    <rect class="keyhole-rect" x="45" y="45" width="10" height="15" fill="white"/>
+                    <polygon class="keyhole-triangle" points="45,60 55,60 52,65" fill="white"/>
+                </svg>
+                <span class="logo-text">Cipher Studio</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#stats">Progress</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button class="theme-toggle" onclick="toggleTheme()">🌓 Theme</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <svg class="hero-logo glitch" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="50" cy="50" r="40" stroke="currentColor" stroke-width="8" fill="none"/>
+                        <path d="M50 10L85 35" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+                        <polygon points="85,40 75,30 95,30" fill="currentColor"/>
+                        <circle class="keyhole-bg" cx="50" cy="50" r="25" fill="currentColor"/>
+                        <circle class="keyhole-circle" cx="50" cy="45" r="8" fill="white"/>
+                        <rect class="keyhole-rect" x="45" y="45" width="10" height="15" fill="white"/>
+                        <polygon class="keyhole-triangle" points="45,60 55,60 52,65" fill="white"/>
+                    </svg>
+                    <h1>Cipher Studio</h1>
+                    <p class="hero-subtitle">We develop immersive open-world games focused on mental wellness, creative expression, and meaningful exploration experiences that promote personal growth and stress relief.</p>
+                    <a href="#about" class="cta-button">Discover More</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about">
+            <div class="container">
+                <div class="about-content">
+                    <div class="about-text">
+                        <h2>Our Mission</h2>
+                        <p>Founded by Victor R Tabuni, Cipher Studio is an independent game development studio specializing in therapeutic gaming experiences that promote mental health and personal growth.</p>
+                        <p>We create open-world exploration games designed with evidence-based wellness principles. Our approach combines engaging gameplay mechanics with psychological research to develop experiences that provide stress relief and encourage self-discovery.</p>
+                        <p>Through carefully crafted narratives and interactive environments, we build digital spaces where players can explore both virtual worlds and aspects of their own personal journey.</p>
+                    </div>
+                    <div class="game-features">
+                        <div class="feature">
+                            <div class="feature-icon">W</div>
+                            <span class="feature-text">Open World Design</span>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-icon">C</div>
+                            <span class="feature-text">Creative Expression</span>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-icon">P</div>
+                            <span class="feature-text">Character Growth</span>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-icon">M</div>
+                            <span class="feature-text">Mystery Elements</span>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-icon">H</div>
+                            <span class="feature-text">Mental Wellness</span>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-icon">T</div>
+                            <span class="feature-text">Therapeutic Design</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="stats" class="stats">
+            <div class="container">
+                <h2>Development Status</h2>
+                <p>Current studio milestones and project progress.</p>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number">2025</div>
+                        <div class="stat-label">Founded</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">1</div>
+                        <div class="stat-label">Core Dev</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">100%</div>
+                        <div class="stat-label">Independent</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">Alpha</div>
+                        <div class="stat-label">Phase</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact">
+            <div class="container">
+                <h2>Connect With Us</h2>
+                <p>Interested in our therapeutic gaming approach or potential collaboration opportunities.</p>
+                <div class="contact-grid">
+                    <div class="contact-card">
+                        <h3>Victor R Tabuni</h3>
+                        <p><strong>Founder & Lead Developer</strong></p>
+                        <p>Dedicated to creating meaningful gaming experiences that promote mental wellness and personal growth through innovative game design principles.</p>
+                    </div>
+                    <div class="contact-card">
+                        <h3>Development Updates</h3>
+                        <p><strong>Project Progress</strong></p>
+                        <p>Follow our development journey and learn about our unique approach to therapeutic game design and mental health integration in gaming.</p>
+                    </div>
+                    <div class="contact-card">
+                        <h3>Collaboration</h3>
+                        <p><strong>Partnership Opportunities</strong></p>
+                        <p>Open to working with developers, mental health professionals, and organizations interested in therapeutic gaming applications and wellness technology.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <svg class="footer-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="40" stroke="currentColor" stroke-width="8" fill="none"/>
+                    <path d="M50 10L85 35" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+                    <polygon points="85,40 75,30 95,30" fill="currentColor"/>
+                    <circle class="keyhole-bg" cx="50" cy="50" r="25" fill="currentColor"/>
+                    <circle class="keyhole-circle" cx="50" cy="45" r="8" fill="white"/>
+                    <rect class="keyhole-rect" x="45" y="45" width="10" height="15" fill="white"/>
+                    <polygon class="keyhole-triangle" points="45,60 55,60 52,65" fill="white"/>
+                </svg>
+                <div>
+                    <p style="font-family: 'Press Start 2P', cursive; font-size: 0.8rem; margin-bottom: 0.5rem;">© 2025 Cipher Studio</p>
+                    <p style="font-size: 0.9rem;">Developing therapeutic gaming experiences through innovative design.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
