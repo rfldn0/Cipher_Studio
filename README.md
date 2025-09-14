@@ -1,4 +1,4 @@
-# Cipher Studio
+![cipher_logo](assets/imgs/ChatGPT_Image_Sep_14__2025__02_57_54_PM-removebg-preview.png)
 
 **Independent game development studio specializing in therapeutic gaming experiences.**
 
