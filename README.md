@@ -12,7 +12,7 @@
 
 ---
 
-![Cipher Studio Logo](assets/imgs/ChatGPT%20Image%20Sep%2014%2C%202025%2C%2002_57_54%20PM.png)
+![cipher_banner](https://github.com/user-attachments/assets/eb7a3b20-5a51-477f-bcfb-415ade6adc39)
 
 **Independent game development studio creating enjoyable, wellness-focused gaming experiences.**
 
