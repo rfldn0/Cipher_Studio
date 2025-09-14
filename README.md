@@ -90,20 +90,6 @@ This repository contains proprietary therapeutic gaming development materials an
 **Distribution**: Restricted access only  
 **Commercial Use**: Contact studio for licensing inquiries
 
-## Image and Icon Licensing
 
-**Visual Assets License**: MIT License
-
-Copyright (c) 2025 Cipher Studio - Victor R Tabuni
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of the images, icons, and visual assets in this repository, to deal in the visual assets without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the visual assets, and to permit persons to whom the visual assets are furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the visual assets.
-
-THE VISUAL ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE VISUAL ASSETS OR THE USE OR OTHER DEALINGS IN THE VISUAL ASSETS.
-
-**Note**: This MIT license applies exclusively to images, icons, logos, and visual design elements. All game code, therapeutic frameworks, and proprietary development materials remain under proprietary licensing.
-
----
 
 *Cipher Studio - Developing evidence-based therapeutic gaming experiences for mental wellness and personal growth.*
