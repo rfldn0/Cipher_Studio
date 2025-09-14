@@ -16,6 +16,13 @@
 
 **Independent game development studio creating enjoyable, wellness-focused gaming experiences.**
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 <a id="about-us"></a>
@@ -39,6 +46,11 @@ Our studio specializes in open-world exploration games that combine engaging gam
 <a id="current-project-haul"></a>
 ## Current Project: Haul
 
+![Adventure](https://img.shields.io/badge/Genre-Adventure-%2300599C?style=flat-square)
+![Mystery](https://img.shields.io/badge/Theme-Mystery-%237A1C4C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Development%20In%20Progress-yellow?style=flat-square)
+![Release](https://img.shields.io/badge/Release-2027-blue?style=flat-square)
+
 ### Overview
 - **Genre**: Adventure / Mystery  
 - **Status**: Active Development
@@ -57,6 +69,13 @@ Our studio specializes in open-world exploration games that combine engaging gam
 ## Technical Framework
 
 ### Development Stack
+![Unity](https://img.shields.io/badge/Engine-Unity-%23000000?style=flat-square&logo=unity)
+![C++](https://img.shields.io/badge/Language-C++-%2300599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Language-Java-%23ED8B00?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Language-Python-%233776AB?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/Version%20Control-Git-%23F05033?style=flat-square&logo=git)
+![Windows](https://img.shields.io/badge/Platform-Windows-%230078D6?style=flat-square&logo=windows)
+
 - **Game Engine**: Unity
 - **Programming Languages**: C++ (core systems), Java (tools), Python (scripting/automation)
 - **Platform**: PC (Windows)
@@ -77,10 +96,10 @@ Our studio specializes in open-world exploration games that combine engaging gam
 - Basic player systems
 
 ### Progress Timeline
-- **Concept Phase**: Completed
-- **Core Mechanics**: In Development
-- **Content Creation**: Planning Stage
-- **Polish & Release**: Future
+- **Concept Phase**: Completed ✅
+- **Core Mechanics**: In Development 🚧
+- **Content Creation**: Planning Stage 📝
+- **Polish & Release**: Future 🔮
 
 <a id="documentation"></a>
 ## Documentation
@@ -99,8 +118,8 @@ Our studio specializes in open-world exploration games that combine engaging gam
 Founder & Developer
 
 ### Contact Details
-- **Email**: tabunivictorr@gmail.com
-- **Portfolio**: Personal website or portfolio (if available)
+[![Email](https://img.shields.io/badge/Email-tabunivictorr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:tabunivictorr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Online-blue?style=flat-square)]()
 
 ### Community Engagement
 We welcome feedback from players and enthusiasts who share our interest in games that promote enjoyment and wellness.
@@ -114,6 +133,8 @@ We welcome feedback from players and enthusiasts who share our interest in games
 This repository contains game development materials for our current projects.
 
 ### Licensing
+![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)
+
 - **Code**: Proprietary - All rights reserved
 - **Assets**: Original creations protected by copyright
 - **Game Concepts**: Protected intellectual property
