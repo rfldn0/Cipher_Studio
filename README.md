@@ -24,53 +24,9 @@ Our studio focuses on open-world exploration games designed with psychological r
 
 ## Current Projects
 
-### Mindful Quest
-**Genre**: Adventure / Wellness  
-**Status**: Expected Release Q4 2025
-
-Open-world adventure featuring contemplative landscapes and mindfulness-based puzzle mechanics. Integrates meditation techniques, breathing exercises, and stress-relief activities within traditional adventure gameplay structures.
-
-### Cipher Worlds
-**Genre**: Mystery / RPG  
-**Status**: 18-month development cycle
-
-Mystery-driven exploration game focused on emotional intelligence development. Players uncover narrative secrets while engaging with self-reflection mechanics and character development systems.
-
-### Healing Haven
-**Genre**: Simulation / Therapy  
-**Status**: Pre-Production Q2 2025
-
-Simulation experience centered on creating and maintaining therapeutic environments. Features empathy development mechanics and collaborative problem-solving within safe virtual spaces.
-
-### Inner Journey
-**Genre**: Adventure / Mindfulness  
-**Status**: 24-month development timeline
-
-Contemplative adventure through procedurally-generated emotional landscapes. Each level represents different psychological concepts, featuring integrated breathing exercises and progressive relaxation techniques.
-
-### Empathy Engine
-**Genre**: Educational / Social  
-**Status**: Expected Release Q1 2026
-
-Educational framework teaching emotional intelligence through character interaction systems. Focuses on active listening mechanics, emotion recognition, and social skill development in controlled virtual environments.
-
-### Stress Shield
-**Genre**: Strategy / Wellness  
-**Status**: Concept Development 2025
-
-Strategic gameplay reimagined for stress management education. Players develop defensive strategies using relaxation techniques, mindfulness practices, and cognitive behavioral therapy principles.
-
-### Digital Therapy
-**Genre**: VR / Therapy  
-**Status**: Research Phase - 36 months
-
-Virtual reality therapeutic platform combining immersive environmental design with clinical therapeutic techniques. Designed for anxiety management, depression support, and PTSD recovery assistance.
-
-### Emotional Atlas
-**Genre**: Exploration / Education  
-**Status**: Early Development Q3 2025
-
-Interactive mapping system for emotional territory navigation. Players learn to identify, understand, and manage complex emotional states through exploration-based gameplay mechanics.
+### Haul
+**Genre**: Adventure / Mystery  
+**Status**: Expected Release Q4 2027
 
 ## Technical Framework
 
