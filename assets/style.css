@@ -451,6 +451,7 @@ nav {
     height: 200px;
     border-bottom: 2px solid var(--primary);
     overflow: hidden;
+    justify-content: center;
 }
 
 .project-card:hover  {
