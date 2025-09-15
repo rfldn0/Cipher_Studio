@@ -1,3 +1,4 @@
+
 function toggleTheme() {
     const html = document.documentElement;
     const currentTheme = html.getAttribute('data-theme');
@@ -12,6 +13,26 @@ function scrollToTop() {
     });
 }
 
+function toggleMobileMenu() {
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+    
+    hamburger.classList.toggle('active');
+    navLinks.classList.toggle('mobile-active');
+    
+    // Prevent body scroll when menu is open
+    document.body.style.overflow = navLinks.classList.contains('mobile-active') ? 'hidden' : 'auto';
+}
+
+function closeMobileMenu() {
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+    
+    hamburger.classList.remove('active');
+    navLinks.classList.remove('mobile-active');
+    document.body.style.overflow = 'auto';
+}
+
 // INFINITE SCROLL FUNCTIONALITY
 document.addEventListener('DOMContentLoaded', function() {
     // Get all navigation links
@@ -20,6 +41,9 @@ document.addEventListener('DOMContentLoaded', function() {
     navLinks.forEach(link => {
         link.addEventListener('click', function(e) {
             e.preventDefault();
+            
+            // Close mobile menu if open
+            closeMobileMenu();
             
             // Get the target section
             const targetId = this.getAttribute('href');
@@ -41,6 +65,23 @@ document.addEventListener('DOMContentLoaded', function() {
                 history.pushState(null, null, targetId);
             }
         });
+    });
+
+    // Close mobile menu when clicking outside
+    document.addEventListener('click', function(e) {
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+        
+        if (!hamburger.contains(e.target) && !navLinks.contains(e.target)) {
+            closeMobileMenu();
+        }
+    });
+
+    // Close mobile menu on window resize if screen becomes larger
+    window.addEventListener('resize', function() {
+        if (window.innerWidth > 768) {
+            closeMobileMenu();
+        }
     });
 
     // Add scroll spy functionality
@@ -80,6 +121,11 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', function() {
         updateActiveNav();
         toggleBackToTop();
+        
+        // Close mobile menu on scroll if open
+        if (window.innerWidth <= 768) {
+            closeMobileMenu();
+        }
     });
     
     // Initial calls
